@@ -1,0 +1,15 @@
+/Users/hugobler/Coding/C#/PalidromeChallenge/obj/Debug/net7.0/PalidromeChallenge.csproj.AssemblyReference.cache
+/Users/hugobler/Coding/C#/PalidromeChallenge/obj/Debug/net7.0/PalidromeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugobler/Coding/C#/PalidromeChallenge/obj/Debug/net7.0/PalidromeChallenge.AssemblyInfoInputs.cache
+/Users/hugobler/Coding/C#/PalidromeChallenge/obj/Debug/net7.0/PalidromeChallenge.AssemblyInfo.cs
+/Users/hugobler/Coding/C#/PalidromeChallenge/obj/Debug/net7.0/PalidromeChallenge.csproj.CoreCompileInputs.cache
+/Users/hugobler/Coding/C#/PalidromeChallenge/bin/Debug/net7.0/PalidromeChallenge
+/Users/hugobler/Coding/C#/PalidromeChallenge/bin/Debug/net7.0/PalidromeChallenge.deps.json
+/Users/hugobler/Coding/C#/PalidromeChallenge/bin/Debug/net7.0/PalidromeChallenge.runtimeconfig.json
+/Users/hugobler/Coding/C#/PalidromeChallenge/bin/Debug/net7.0/PalidromeChallenge.dll
+/Users/hugobler/Coding/C#/PalidromeChallenge/bin/Debug/net7.0/PalidromeChallenge.pdb
+/Users/hugobler/Coding/C#/PalidromeChallenge/obj/Debug/net7.0/PalidromeChallenge.dll
+/Users/hugobler/Coding/C#/PalidromeChallenge/obj/Debug/net7.0/refint/PalidromeChallenge.dll
+/Users/hugobler/Coding/C#/PalidromeChallenge/obj/Debug/net7.0/PalidromeChallenge.pdb
+/Users/hugobler/Coding/C#/PalidromeChallenge/obj/Debug/net7.0/PalidromeChallenge.genruntimeconfig.cache
+/Users/hugobler/Coding/C#/PalidromeChallenge/obj/Debug/net7.0/ref/PalidromeChallenge.dll
